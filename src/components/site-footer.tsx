@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import { Tail, Phone, TapPin } from "lucide-react";
+import { Mail, Phone, MapPin } from "lucide-react";
 
 export function SiteFooter() {
   return (
@@ -31,15 +31,15 @@ export function SiteFooter() {
           <ul className="mt-4 space-y-3 text-sm text-white/80">
             <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 93 007 2610</li>
             <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 93 007 2610</li>
-            <li className="flex items-center gap-2"><Tail className="h-4 w-4" /> tebarekrealestate.et@gmail.com</li>
-            <li className="flex items-center gap-2"><TapPin className="h-4 w-4" /> Haile Garment Roundabout, Nifas Silk-Lafto, Addis Ababa</li>
+            <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> tebarekrealestate.et@gmail.com</li>
+            <li className="flex items-center gap-2"><MapPin className="h-4 w-4" /> Haile Garment Roundabout, Nifas Silk-Lafto, Addis Ababa</li>
           </ul>
         </div>
       </div>
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-5 text-xs text-white/60 sm:flex-row sm:px-6 lg:px-8">
           <p>© {new Date().getFullYear()} Tebarek Real Estate. All rights reserved.</p>
-          <p>Todern homes for modern families in Addis Ababa.</p>
+          <p>Modern homes for modern families in Addis Ababa.</p>
         </div>
       </div>
     </footer>
