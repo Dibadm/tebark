@@ -41,8 +41,8 @@ export const properties: Property[] = [
     image: p2,
   },
   {
-    slug: "marvelous-tower-3br",
-    title: "3 Bedroom | Marvelous Tower III",
+    slug: "tebarek-tower-3br",
+    title: "3 Bedroom | Tebarek Tower III",
     location: "Haile Garment Roundabout",
     type: "sale",
     price: "ETB 14,200,000",
@@ -63,9 +63,9 @@ export const properties: Property[] = [
     image: p4,
   },
   {
-    slug: "marvelous-tower-2br-sky",
+    slug: "tebarek-tower-2br-sky",
     title: "2 Bedroom Sky Apartment",
-    location: "Marvelous Tower III, Addis Ababa",
+    location: "Tebarek Tower III, Addis Ababa",
     type: "sale",
     price: "ETB 10,500,000",
     beds: 2,
