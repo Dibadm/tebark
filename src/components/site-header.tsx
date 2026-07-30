@@ -18,7 +18,7 @@ export function SiteHeader() {
           <span className="flex h-9 w-9 items-center justify-center rounded-full bg-primary text-primary-foreground font-bold">
             M
           </span>
-          <span className="text-lg font-bold tracking-tight">Marvelous Real Estate</span>
+          <span className="text-lg font-bold tracking-tight">Tebarek Real Estate</span>
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">
