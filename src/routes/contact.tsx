@@ -30,8 +30,8 @@ function ContactPage() {
               <span className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-primary"><Phone className="h-4 w-4" /></span>
               <div>
                 <div className="font-semibold">Phone</div>
-                <div className="text-muted-foreground">+251 98 024 2526</div>
-                <div className="text-muted-foreground">+251 98 027 2829 · +251 98 026 2728</div>
+                <div className="text-muted-foreground">+251 93 007 2610</div>
+                <div className="text-muted-foreground">+251 93 007 2610 · +251 93 007 2610</div>
               </div>
             </div>
             <div className="flex items-start gap-3">
