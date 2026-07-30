@@ -29,8 +29,8 @@ export function SiteFooter() {
         <div>
           <h4 className="text-sm font-semibold uppercase tracking-wider text-white/60">Contact</h4>
           <ul className="mt-4 space-y-3 text-sm text-white/80">
-            <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 98 024 2526</li>
-            <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 98 027 2829</li>
+            <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 93 007 2610</li>
+            <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 93 007 2610</li>
             <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> tebarekrealestate.et@gmail.com</li>
             <li className="flex items-center gap-2"><MapPin className="h-4 w-4" /> Haile Garment Roundabout, Nifas Silk-Lafto, Addis Ababa</li>
           </ul>
