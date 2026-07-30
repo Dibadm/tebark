@@ -37,10 +37,10 @@ export function SiteHeader() {
 
         <div className="hidden items-center gap-4 md:flex">
           <a
-            href="tel:+251980242526"
+            href="tel:+251930072610"
             className="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground"
           >
-            <Phone className="h-4 w-4" /> +251 98 024 2526
+            <Phone className="h-4 w-4" /> +251 93 007 2610
           </a>
           <Link
             to="/contact"
@@ -72,11 +72,11 @@ export function SiteHeader() {
               </Link>
             ))}
             <a
-              href="tel:+251980242526"
+              href="tel:+251930072610"
               onClick={() => setOpen(false)}
               className="mt-1 flex items-center gap-2 rounded-md px-3 py-2 text-sm font-medium text-muted-foreground hover:bg-accent"
             >
-              <Phone className="h-4 w-4" /> +251 98 024 2526
+              <Phone className="h-4 w-4" /> +251 93 007 2610
             </a>
             <Link
               to="/contact"
