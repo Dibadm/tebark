@@ -5,9 +5,9 @@ import { useState } from "react";
 export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
-      { title: "Contact — Marvelous Real Estate" },
-      { name: "description", content: "Contact Marvelous Real Estate in Addis Ababa for site visits, unit availability and installment plans." },
-      { property: "og:title", content: "Contact — Marvelous Real Estate" },
+      { title: "Contact — Tebarek Real Estate" },
+      { name: "description", content: "Contact Tebarek Real Estate in Addis Ababa for site visits, unit availability and installment plans." },
+      { property: "og:title", content: "Contact — Tebarek Real Estate" },
       { property: "og:description", content: "Visit our Haile Garment office or call our Addis Ababa sales team." },
     ],
   }),
@@ -36,7 +36,7 @@ function ContactPage() {
             </div>
             <div className="flex items-start gap-3">
               <span className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-primary"><Mail className="h-4 w-4" /></span>
-              <div><div className="font-semibold">Email</div><div className="text-muted-foreground">marvelousrealestate.et@gmail.com</div></div>
+              <div><div className="font-semibold">Email</div><div className="text-muted-foreground">tebarekrealestate.et@gmail.com</div></div>
             </div>
             <div className="flex items-start gap-3">
               <span className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-primary"><MapPin className="h-4 w-4" /></span>
