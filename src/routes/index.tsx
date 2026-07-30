@@ -8,13 +8,13 @@ import { PropertyCard } from "@/components/property-card";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Marvelous Real Estate — Modern Homes in Addis Ababa" },
+      { title: "Tebarek Real Estate — Modern Homes in Addis Ababa" },
       {
         name: "description",
         content:
-          "Marvelous Real Estate builds modern, family-focused, and affordable apartments in Addis Ababa. Explore 1, 2 and 3 bedroom homes with flexible installments.",
+          "Tebarek Real Estate builds modern, family-focused, and affordable apartments in Addis Ababa. Explore 1, 2 and 3 bedroom homes with flexible installments.",
       },
-      { property: "og:title", content: "Marvelous Real Estate — Modern Homes in Addis Ababa" },
+      { property: "og:title", content: "Tebarek Real Estate — Modern Homes in Addis Ababa" },
       {
         property: "og:description",
         content: "Affordable 1, 2 and 3 bedroom apartments in Nifas Silk-Lafto. Delivered on time, with ready ካርታ.",
@@ -48,7 +48,7 @@ function Index() {
               <span className="text-primary">Modern Families</span>
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-base text-white/85 sm:text-lg">
-              Marvelous Real Estate develops affordable, family-focused apartments in suburban
+              Tebarek Real Estate develops affordable, family-focused apartments in suburban
               Addis Ababa — delivered on time, with flexible installment plans.
             </p>
           </div>
@@ -118,10 +118,10 @@ function Index() {
       </section>
 
       {/* Why choose us */}
-      <section className="bg-[oklch(0.97_0.005_260)] py-20">
+      <section className="bg-[oklch(0.97_0.01_150)] py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="mb-14 text-center">
-            <h2 className="font-display text-3xl font-bold sm:text-5xl">Why Marvelous</h2>
+            <h2 className="font-display text-3xl font-bold sm:text-5xl">Why Tebarek</h2>
             <p className="mx-auto mt-3 max-w-2xl text-muted-foreground">
               A developer built on on-time delivery, ready legal paperwork, and honest, family-first design.
             </p>
