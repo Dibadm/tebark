@@ -5,9 +5,9 @@ import { CheckCircle2 } from "lucide-react";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About — Marvelous Real Estate" },
-      { name: "description", content: "Marvelous Real Estate is a private residential developer in Addis Ababa building affordable, family-focused apartments in Nifas Silk-Lafto." },
-      { property: "og:title", content: "About — Marvelous Real Estate" },
+      { title: "About — Tebarek Real Estate" },
+      { name: "description", content: "Tebarek Real Estate is a private residential developer in Addis Ababa building affordable, family-focused apartments in Nifas Silk-Lafto." },
+      { property: "og:title", content: "About — Tebarek Real Estate" },
       { property: "og:description", content: "A private Addis Ababa developer with three delivered residential towers and ready ካርታ." },
     ],
   }),
@@ -22,7 +22,7 @@ function AboutPage() {
           <p className="text-sm font-semibold uppercase tracking-widest text-primary">About Us</p>
           <h1 className="mt-2 font-display text-4xl font-bold sm:text-5xl">Building modern homes in Addis Ababa</h1>
           <p className="mt-5 text-muted-foreground">
-            Marvelous Real Estate is a private residential developer headquartered at the Haile Garment
+            Tebarek Real Estate is a private residential developer headquartered at the Haile Garment
             Roundabout in Nifas Silk-Lafto. We design and build affordable, family-focused vertical
             residences — and we deliver them on time, with ready legal paperwork.
           </p>
