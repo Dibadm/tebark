@@ -79,14 +79,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Marvelous Real Estate — Modern Homes in Addis Ababa" },
-      { name: "description", content: "Marvelous Real Estate builds modern, family-focused, and affordable apartments in Addis Ababa. Explore 1, 2 and 3 bedroom homes with flexible installments." },
-      { name: "author", content: "Marvelous Real Estate" },
-      { property: "og:title", content: "Marvelous Real Estate — Modern Homes in Addis Ababa" },
+      { title: "Tebarek Real Estate — Modern Homes in Addis Ababa" },
+      { name: "description", content: "Tebarek Real Estate builds modern, family-focused, and affordable apartments in Addis Ababa. Explore 1, 2 and 3 bedroom homes with flexible installments." },
+      { name: "author", content: "Tebarek Real Estate" },
+      { property: "og:title", content: "Tebarek Real Estate — Modern Homes in Addis Ababa" },
       { property: "og:description", content: "Affordable 1, 2 and 3 bedroom apartments in Nifas Silk-Lafto. Delivered on time, with ready ካርታ." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@marvelousrealestate" },
+      { name: "twitter:site", content: "@tebarekrealestate" },
     ],
     links: [
       {
