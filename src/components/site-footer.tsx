@@ -8,7 +8,7 @@ export function SiteFooter() {
         <div className="lg:col-span-2">
           <div className="flex items-center gap-2">
             <span className="flex h-9 w-9 items-center justify-center rounded-full bg-primary font-bold">T</span>
-            <span className="text-lg font-bold">Tebarek Real Estate</span>
+            <span className="text-lg font-bold">Bereka Real Estate</span>
           </div>
           <p className="mt-4 max-w-md text-sm text-white/70">
             A private residential developer in Addis Ababa building modern, family-focused, and
@@ -31,14 +31,14 @@ export function SiteFooter() {
           <ul className="mt-4 space-y-3 text-sm text-white/80">
             <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 93 007 2610</li>
             <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +251 93 007 2610</li>
-            <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> tebarekrealestate.et@gmail.com</li>
+            <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> berekarealestate.et@gmail.com</li>
             <li className="flex items-center gap-2"><MapPin className="h-4 w-4" /> Haile Garment Roundabout, Nifas Silk-Lafto, Addis Ababa</li>
           </ul>
         </div>
       </div>
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-5 text-xs text-white/60 sm:flex-row sm:px-6 lg:px-8">
-          <p>© {new Date().getFullYear()} Tebarek Real Estate. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Bereka Real Estate. All rights reserved.</p>
           <p>Modern homes for modern families in Addis Ababa.</p>
         </div>
       </div>

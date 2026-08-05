@@ -41,8 +41,8 @@ export const properties: Property[] = [
     image: p2,
   },
   {
-    slug: "tebarek-tower-3br",
-    title: "3 Bedroom | Tebarek Tower III",
+    slug: "bereka-tower-3br",
+    title: "3 Bedroom | Bereka Tower III",
     location: "Haile Garment Roundabout",
     type: "sale",
     price: "ETB 14,200,000",
@@ -63,9 +63,9 @@ export const properties: Property[] = [
     image: p4,
   },
   {
-    slug: "tebarek-tower-2br-sky",
+    slug: "bereka-tower-2br-sky",
     title: "2 Bedroom Sky Apartment",
-    location: "Tebarek Tower III, Addis Ababa",
+    location: "Bereka Tower III, Addis Ababa",
     type: "sale",
     price: "ETB 10,500,000",
     beds: 2,
